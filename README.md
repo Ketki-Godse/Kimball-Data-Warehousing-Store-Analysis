@@ -49,5 +49,5 @@ Steps followed:
 <img width="773" alt="image" src="https://github.com/Ketki-Godse/Kimball-Data-Warehousing-Store-Analysis/assets/134458658/bb03cf8d-ffd4-4211-bb4a-862723c153d0">
 
 
-## Kimball Data Warehousing: Store Analysis Visualizations:https://public.tableau.com/app/profile/ketki.godse/viz/KimballDataWarehousingStoreAnalysis/IMT577KetkiGodseDashboard
+#### Kimball Data Warehousing: Store Analysis Visualizations:https://public.tableau.com/app/profile/ketki.godse/viz/KimballDataWarehousingStoreAnalysis/IMT577KetkiGodseDashboard
 
