@@ -34,7 +34,7 @@ Steps followed:
 10. Used live connections to connect the views to Tableau
 11. Created visualizations to answer the business questions
 
-## Visualizations
+## Visualizations [Link](https://public.tableau.com/app/profile/ketki.godse/viz/KimballDataWarehousingStoreAnalysis/IMT577KetkiGodseDashboard)
 
 ### Question 1
 <img width="780" alt="image" src="https://github.com/Ketki-Godse/Kimball-Data-Warehousing-Store-Analysis/assets/134458658/c504ddf2-69e3-4f6b-9fc3-7bc4de67e820">
