@@ -3,6 +3,7 @@
 <img width="1010" alt="image" src="https://github.com/Ketki-Godse/Kimball-Data-Warehousing-Store-Analysis/assets/134458658/550e468b-ed58-40c2-a5da-0b908820e8f1">
 
 
+
 Kimball data warehousing is a methodology developed by Ralph Kimball that focuses on the dimensional modeling approach for designing data warehouses. This approach aims to make data easily accessible and understandable for end users, particularly for business intelligence and reporting purposes.
 
 ## Business Problem
@@ -36,7 +37,7 @@ Steps followed:
 ## Visualizations
 
 ### Question 1
-<img width="794" alt="image" src="https://github.com/Ketki-Godse/Kimball-Data-Warehousing-Store-Analysis/assets/134458658/1e253721-e0e7-4f43-8f19-a86d3b43b6f5">
+<img width="780" alt="image" src="https://github.com/Ketki-Godse/Kimball-Data-Warehousing-Store-Analysis/assets/134458658/c504ddf2-69e3-4f6b-9fc3-7bc4de67e820">
 
 ### Question 2
 <img width="773" alt="image" src="https://github.com/Ketki-Godse/Kimball-Data-Warehousing-Store-Analysis/assets/134458658/298451ec-8e15-47e6-a603-31809b9a3086">
@@ -48,5 +49,5 @@ Steps followed:
 <img width="773" alt="image" src="https://github.com/Ketki-Godse/Kimball-Data-Warehousing-Store-Analysis/assets/134458658/bb03cf8d-ffd4-4211-bb4a-862723c153d0">
 
 
-Kimball Data Warehousing: Store Analysis Visualizations:https://public.tableau.com/app/profile/ketki.godse/viz/KimballDataWarehousingStoreAnalysis/IMT577KetkiGodseDashboard
+## Kimball Data Warehousing: Store Analysis Visualizations:https://public.tableau.com/app/profile/ketki.godse/viz/KimballDataWarehousingStoreAnalysis/IMT577KetkiGodseDashboard
 
