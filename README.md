@@ -7,7 +7,7 @@
 Kimball data warehousing is a methodology developed by Ralph Kimball that focuses on the dimensional modeling approach for designing data warehouses. This approach aims to make data easily accessible and understandable for end users, particularly for business intelligence and reporting purposes.
 
 ## Business Problem
-The company I work for manufactures and sells products to make money. My company has asked me to help them analyze their sales history for Stores 5 & 8 and make recommendations to improve the company's sales profit. These are the following questions I want to answer:
+Company A manufactures and sells products through its retail stores. As a data analyst, my task is to analyze the sales history of Stores 5 and 8 and provide recommendations to enhance the company’s sales profitability. The following are the key questions I aim to address:
 ​
 1. An overall assessment of Stores number 5 and 8’s sales.
     1.How are they performing compared to target? Will they meet their 2014 target?
